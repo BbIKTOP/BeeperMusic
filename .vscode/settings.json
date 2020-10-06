@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/viktor/.platformio/penv/bin:/Users/viktor/.platformio/penv:/opt/oracle/home/bin:/opt/oracle/home/lib:/opt/local/bin:/opt/local/sbin:/Users/viktor/Applications:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/Shared/Android/sdk/tools:/Users/Shared/Android/sdk/platform-tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}

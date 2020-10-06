@@ -1,0 +1,42 @@
+
+eb8 e2
+s8
+f#8 g2
+s8
+
+eb8 e8
+s8
+f#8 g8
+s8
+C8 b4
+
+
+e8 g8
+s8
+b8 bb2
+bb8
+
+
+a8 g8 e8 d8 e2
+s2
+
+eb8 e2
+s8
+f#8 g2
+s8
+
+eb8 e8
+s8
+f#8 g8
+s8
+C8 b4
+
+
+
+e8 g8
+s8
+E8 Eb1
+
+s8
+
+
