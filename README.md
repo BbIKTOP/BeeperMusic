@@ -35,23 +35,23 @@ void setup()
 {
     // Load melody to play
     buzzPlayer.setMelody((const char *)"a4,e4,a4,e4,a4,g#4,g#4,"
-									   "s4,"
-									   "g#4,e4,g#4,e4,g#4,a4,a4,"
-									   "s4,"
-									   "a4,e4,a4,e4,a4,g#4,g#4,"
-									   "s4,"
-									   "g#4,e4,g#4,e4,g#4,a2,"
-									   "a2,"
-									   "b4,b8,b8,b4,"
-									   "b4,C4,C8,C8,C4,"
-									   "C4,C4,b4,a4,g#4,a4,a4,"
-									   "s4,"
-									   "a4,b4,b8,b8,b4,"
-									   "b4,C4,C8,C8,C4,"
-									   "C4,C4,b4,a4,g#4,a2,"
-									   "s8,"
-									   "g#2,a2,"
-									   "s2");
+			"s4,"
+			"g#4,e4,g#4,e4,g#4,a4,a4,"
+			"s4,"
+			"a4,e4,a4,e4,a4,g#4,g#4,"
+			"s4,"
+			"g#4,e4,g#4,e4,g#4,a2,"
+			"a2,"
+			"b4,b8,b8,b4,"
+			"b4,C4,C8,C8,C4,"
+			"C4,C4,b4,a4,g#4,a4,a4,"
+			"s4,"
+			"a4,b4,b8,b8,b4,"
+			"b4,C4,C8,C8,C4,"
+			"C4,C4,b4,a4,g#4,a2,"
+			"s8,"
+			"g#2,a2,"
+			"s2");
 
     // Set basic playing speed
     buzzPlayer.setTempo(1200);
