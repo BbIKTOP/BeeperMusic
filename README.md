@@ -1,5 +1,5 @@
 # BeeperMusic
-A simple library to play backgroiund tones on the beeper. Tested with ESP8266
+A simple library to play background tones on the beeper. Tested with ESP8266
 
 ## Notes
 Notes are encoded as abcdefg for the first octave, and ABCDEFG for the second. S is for silence. The note's value (i. e. relative duration) shall be stated right after the note. For example c2 means breve C (do). Notes are separated by the comma, new line, space or other character specified in the bool BuzzPlayer::isSeparator(char c)
